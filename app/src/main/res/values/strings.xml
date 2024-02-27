@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">push_notification</string>
+
+    <!--  Channel values  -->
+    <string name="channel_name">Firebase Channel</string>
+    <string name="channel_description">Welcome to Firebase Channel.</string>
+
+    <string name="notify_title">FIREBASE TITLE</string>
+</resources>
